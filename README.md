@@ -1,0 +1,1 @@
+Multisequence verification schema for authentication and authorization
